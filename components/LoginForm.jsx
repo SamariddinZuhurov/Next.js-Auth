@@ -78,7 +78,7 @@ function LoginForm() {
                 htmlFor="password"
                 className="block text-gray-700 font-semibold mb-2"
               >
-                Password
+                  Password
               </label>
               <div className=" relative   ">
                 <input
